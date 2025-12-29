@@ -1,3 +1,3 @@
-Оно тебе ндо
+Оно тебе надо
 1 спринт
-https://github.com/RLeypi-FMBO/ono-tebe-nado/blob/main/README.md
+https://github.com/RLeypi-FMBO/ono-tebe-nado
